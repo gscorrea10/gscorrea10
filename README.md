@@ -18,3 +18,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"/>
 </div>
+
+                                                                                                                                
+<h2> Some stats:</h2>  
+                                                                                                                                
+<div align ="left">
+                                                                                            
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gscorrea10&theme=dark&hide_border=true&border_radius=25)](https://git.io/streak-stats)
+</div>
+                  
+<div align ="left">
+                  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gscorrea10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+                  
+</div>
